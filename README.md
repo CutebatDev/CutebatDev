@@ -1,4 +1,5 @@
-- Greetings! I’m @CutebatDev
-- I’m self-taught developer, currently expanding my knowledge in JavaScript, API's and Unity development (but not limited to)
+- Hi! I’m @CutebatDev
+- I’m self-taught developer, 85% of all stuff i learned was thru internet, personal projects
+- Student at Open University, going for Software Dev., planning to switch to Game Development institution soon
 
-- Reach me trought twitter (@_cutebat) or Discord (Cutebat#6737)
+- Reach me trought Discord : Koumoridoko
