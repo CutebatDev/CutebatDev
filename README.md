@@ -3,6 +3,4 @@
 - ~~Student at Open University, going for Software Dev., planning to switch to Game Development institution soon~~
 - Student at Tiltan, learning Game Desing and Development
 
-Contacts: 
-  Discord : KoumoriDoko
-  Mail    : alexaverten@gmail.com / sobolevdmytry@gmail.com
+Discord : KoumoriDoko | Mail : alexaverten@gmail.com / sobolevdmytry@gmail.com
